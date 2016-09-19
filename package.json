@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "array-from": "^2.1.1",
-    "ascoltatori": "^3.0.0",
+    "ascoltatori": "git+https://github.com/gordomium/ascoltatori.git#6b93cc64834b68aa0516c607caf1ac860800bb03",
     "brfs": "~1.4.2",
     "clone": "^1.0.2",
     "commander": "~2.9.0",
